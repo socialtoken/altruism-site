@@ -446,4 +446,5 @@ footer {
 
 #faq .list-group-item, .card-success {
 	background-color: #18bc9c;
+	border: 0;
 }
